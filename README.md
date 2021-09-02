@@ -2,6 +2,11 @@
 
 # List of Video Tutorials
 
+HOW TO BUILD:
+- Open gradle.properties, change org.gradle.java.home with your java location (minimum is Java 11)
+- flutter run
+
+REFERENCES:
 - Download and configuring Flutter and building the ProKit Flutter - https://youtu.be/QNlfN32G5As
 - How to build ProKit Flutter in Android - https://youtu.be/QKMfASEX9As
 - How to build ProKit Flutter in iOS - https://youtu.be/Hg9S6AKzWxE
